@@ -6,8 +6,8 @@
 - Pages: https://archangel767.github.io/cpnt200-a2/
 
 ## Code Review
-- Early setup and figuring out the file structures definitely gave me the most issues.
-- Going over the code again, as well as watching a slimmed down tutorial by Traversty Media, I was able to get a much better sense of the file priority and which information is static and which is 
+- Components definitely turned out to be more difficult to  understand that I initially assumed.
+- Uploaded the most recent version of the dad jokes site, as it's the most stable.
 
 ## Attributions
 - [Photo] (https://pics.me.me/sensible-chuckle-sensible-chuckle-the-danger-5-interviews-49637576.png) by Danger 5 (https://www.shoutfactorytv.com/series/danger-5)
