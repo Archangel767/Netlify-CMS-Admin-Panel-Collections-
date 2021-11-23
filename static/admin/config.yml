@@ -20,20 +20,18 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: 'Joke'
-    label: 'Blog'
-    folder: 'content/blog'
+  - name: 'Gallery'
+    label: 'Gallery'
+    folder: 'content/gallery'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Title', name: 'title', widget: 'image' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-        - name: 'blog'
-
 
   - name: "About"
     label: "About Page"
